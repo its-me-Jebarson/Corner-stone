@@ -292,4 +292,4 @@ TruthLense AI features an independent investigation workspace accessible via `/c
 - **Reporting**: jsPDF (Standard forensic A4 portrait layout with disclaimers)
 =======
 # Corner-stone
->>>>>>> 4c0f8d0128e65a16a26d2cb3e8214bd26a17c852
+
