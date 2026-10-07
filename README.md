@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TruthLense AI — Multimodal Deepfake & Digital Forensics Platform
 
 [![HackNex 2026](https://img.shields.io/badge/HackNex%202026-HNX26PSI10-cyan.svg)](https://hacknex.tech)
@@ -289,3 +290,6 @@ TruthLense AI features an independent investigation workspace accessible via `/c
 - **Backend API**: Python 3.10+, FastAPI, Uvicorn, Pillow, NumPy, SciPy (Laplacian & 2D FFT)
 - **Frontend**: React 19, TypeScript, Vite 8, TailwindCSS, Lucide React
 - **Reporting**: jsPDF (Standard forensic A4 portrait layout with disclaimers)
+=======
+# Corner-stone
+>>>>>>> 4c0f8d0128e65a16a26d2cb3e8214bd26a17c852
